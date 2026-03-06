@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# HTTrack cache
+hts-cache/
+*.log
+*.lst
+*.z
+
+# Editors
+.vscode/
+.idea/
