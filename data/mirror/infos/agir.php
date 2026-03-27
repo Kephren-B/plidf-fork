@@ -1,7 +1,3 @@
-<!-- Generated on 2016-10-15 02:10:16 for 174.129.228.67-->
-<!--
-
- start ok -->
 <!DOCTYPE html>
 
 <html>
@@ -131,32 +127,7 @@
 <div>
 <div id="comments-section-div">
 <h3 id="comments">
-<!--Donnez-nous votre avis-->Commenter</h3>
-<div id="comments-div"></div>
-<script>CommentManager.displayCommentsSection('c7chjm');</script>
-</div>
-</div>
-</article>
-</main>
-<footer>
-<nav>
-<ul class="" id="bottom-menu-ul">
-<li class=""><a href="about.php" title="">À propos</a></li>
-<li class=""><a href="..\legal.php" title="">Mentions légales</a></li>
-<li class=""><a href="..\privacy.php" title="">Confidentialité</a></li>
-<li class=""><a href="..\contact.php" title="">Contact</a></li>
-<li class=""><a href="..\sitemap.php" title="">Plan du site</a></li>
-<li class=""><a href="..\rss.php" title="Tous nos flux RSS et abonnement a notre liste de diffusion">RSS</a></li>
-<li class=""><a href="..\dons.php" title="">Dons</a></li>
-</ul>
-<div style="clear:both;"></div>
-</nav>
-</footer>
-</div>
-<!-- -->
 <pre>
 </pre>
-<!-- -->
-<script>var qq = false || (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-74421816-1', 'auto'); ga('send', 'pageview'); </script>
 </body>
 </html>

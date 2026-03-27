@@ -1,7 +1,3 @@
-<!-- Generated on 2016-10-15 02:15:59 for 174.129.228.67-->
-<!--
-
- start ok -->
 <!DOCTYPE html>
 
 <html>
@@ -180,78 +176,6 @@
 <li><img height="25" src="..\medias\logos\logo_cv.svg" title="Cergyval" width="25"/><a href="..\ligne\cv_1.php"><img height="25" src="..\medias\logos\cv_1.svg" title="Cergyval 1" width="25"/></a><a href="..\ligne\cv_2.php"><img height="25" src="..\medias\logos\cv_2.svg" title="Cergyval 2" width="25"/></a></li>
 <li><img height="25" src="..\medias\logos\logo_tram.svg" title="Tramway" width="25"/><a href="..\ligne\t_1.php"><img height="25" src="..\medias\logos\tram_1.svg" title="Tramway T1" width="25"/></a><a href="..\ligne\t_2.php"><img height="25" src="..\medias\logos\tram_2.svg" title="Tramway T2" width="25"/></a><a href="..\ligne\t_3a.php"><img height="25" src="..\medias\logos\tram_3a.svg" title="Tramway T3a" width="25"/></a><a href="..\ligne\t_3b.php"><img height="25" src="..\medias\logos\tram_3b.svg" title="Tramway T3b" width="25"/></a><a href="..\ligne\t_4.php"><img height="25" src="..\medias\logos\tram_4.svg" title="Tramway T4" width="25"/></a><a href="..\ligne\t_5.php"><img height="25" src="..\medias\logos\tram_5.svg" title="Tramway T5" width="25"/></a><a href="..\ligne\t_6.php"><img height="25" src="..\medias\logos\tram_6.svg" title="Tramway T6" width="25"/></a><a href="..\ligne\t_7.php"><img height="25" src="..\medias\logos\tram_7.svg" title="Tramway T7" width="25"/></a><a href="..\ligne\t_8.php"><img height="25" src="..\medias\logos\tram_8.svg" title="Tramway T8" width="25"/></a><a href="..\ligne\t_g.php"><img height="25" src="..\medias\logos\tram_g.svg" title="Tramway des gares" width="25"/></a><a href="..\ligne\t_m.php"><img height="25" src="..\medias\logos\tram_m.svg" title="Tram-train de Melun" width="25"/></a></li>
 </ul>
-<!--{
-    "cv": [
-        "1",
-        "2"
-    ],
-    "m": [
-        "1",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "forts",
-        "nord",
-        "ov",
-        "sud"
-    ],
-    "rer": [
-        "a",
-        "aex",
-        "b",
-        "c",
-        "d",
-        "e",
-        "f",
-        "g",
-        "pce"
-    ],
-    "tg": [
-        "ess",
-        "sm",
-        "ssd",
-        "vdm",
-        "vo",
-        "y"
-    ],
-    "tr": [
-        "h",
-        "j",
-        "k",
-        "l",
-        "n",
-        "p",
-        "r",
-        "u"
-    ],
-    "t": [
-        "1",
-        "2",
-        "3a",
-        "3b",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "g",
-        "m"
-    ]
-}-->
 <p></p>
 </div>
 </div>
@@ -265,32 +189,7 @@
 <div>
 <div id="comments-section-div">
 <h3 id="comments">
-<!--Donnez-nous votre avis-->Commenter</h3>
-<div id="comments-div"></div>
-<script>CommentManager.displayCommentsSection('a4i98c');</script>
-</div>
-</div>
-</article>
-</main>
-<footer>
-<nav>
-<ul class="" id="bottom-menu-ul">
-<li class=""><a href="about.php" title="">À propos</a></li>
-<li class=""><a href="..\legal.php" title="">Mentions légales</a></li>
-<li class=""><a href="..\privacy.php" title="">Confidentialité</a></li>
-<li class=""><a href="..\contact.php" title="">Contact</a></li>
-<li class=""><a href="..\sitemap.php" title="">Plan du site</a></li>
-<li class=""><a href="..\rss.php" title="Tous nos flux RSS et abonnement a notre liste de diffusion">RSS</a></li>
-<li class=""><a href="..\dons.php" title="">Dons</a></li>
-</ul>
-<div style="clear:both;"></div>
-</nav>
-</footer>
-</div>
-<!-- -->
 <pre>
 </pre>
-<!-- -->
-<script>var qq = false || (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-74421816-1', 'auto'); ga('send', 'pageview'); </script>
 </body>
 </html>

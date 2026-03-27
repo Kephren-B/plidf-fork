@@ -1,7 +1,3 @@
-<!-- Generated on 2019-07-21 09:01:36 for 54.92.148.165-->
-<!--
-
- start ok -->
 <!DOCTYPE html>
 
 <html>
@@ -119,48 +115,8 @@
 <em>Commune de <span class="commune-name-span">Lésigny</span> </em>
 <div id="description">
 <p>
-<!--La gare d eLésigny est un projet de gare de la tangentielle Seine-et-Marne Intérieure.--></p>
 </div>
 <div>
-<figure class="station-map-figure">
-<p><a href="http://www.openstreetmap.org/?mlat=48.74419&amp;mlon=2.61317&amp;zoom=15" onclick="CommentManager.seeOnOSM('g7m1k7')" target="_blank">Voir l'emplacement de cette gare sur openstreetmap</a></p>
-</figure>
-</div>
-<div>
-<p>Pas de projet associé à cette gare</p>
-</div>
-<div>
-<!--
-    <h2>Connexions</h2>
-     <table class="content-table" id="connexions-table">
-       <thead>
-	 <tr>
-	   <th>Pole</th>
-	   <th>Ligne(s)</th>
-	   <th>Temps</th>
-	 </tr>
-	</thead>
-	<tbody>
-	  
-	</tbody>
-     </table>
-    -->
-</div>
-<div>
-<!--
-     <h2>&Agrave; proximité</h2>
-     <table class="content-table">
-       <thead>
-	 <tr>
-	   <th>Lieu</th>
-	   <th>Catégorie</th>
-	 </tr>
-	</thead>
-	<tbody>
-	    
-	</tbody>
-      </table>
-     -->
 </div>
 </div>
 </div>
@@ -175,33 +131,7 @@
 <div>
 <div id="comments-section-div">
 <h3 id="comments">
-<!--Donnez-nous votre avis-->Commenter</h3>
-<div id="comments-div"></div>
-<script>CommentManager.displayCommentsSection('g7m1k7');</script>
-</div>
-</div>
-</article>
-</main>
-<footer>
-<nav>
-<ul class="" id="bottom-menu-ul">
-<li class=""><a href="..\infos\about.php" title="">À propos</a></li>
-<li class=""><a href="..\legal.php" title="">Mentions légales</a></li>
-<li class=""><a href="..\privacy.php" title="">Confidentialité</a></li>
-<li class=""><a href="..\contact.php" title="">Contact</a></li>
-<li class=""><a href="..\sitemap.php" title="">Plan du site</a></li>
-<li class=""><a href="..\rss.php" title="Tous nos flux RSS et abonnement a notre liste de diffusion">RSS</a></li>
-<li class=""><a href="..\dons.php" title="">Dons</a></li>
-<li class=""><a href="..\help.php" title="Aide à la navigation sur notre site">Aide</a></li>
-</ul>
-<div style="clear:both;"></div>
-</nav>
-</footer>
-</div>
-<!-- -->
 <pre>
 </pre>
-<!-- -->
-<script>var qq = false || (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-74421816-1', 'auto'); ga('send', 'pageview'); </script>
 </body>
 </html>

@@ -1,7 +1,3 @@
-<!-- Generated on 2020-09-19 11:25:55 for 207.241.232.35-->
-<!--
-
- start ok -->
 <!DOCTYPE html>
 
 <html>
@@ -135,47 +131,8 @@
 </ul>
 </div>
 <div>
-<!--
-    <h2>Connexions</h2>
-     <table class="content-table" id="connexions-table">
-       <thead>
-	 <tr>
-	   <th>Pole</th>
-	   <th>Ligne(s)</th>
-	   <th>Temps</th>
-	 </tr>
-	</thead>
-	<tbody>
-	  <tr>
-  <td>Saint-Lazare</td>
-  <td><img src="/plan-ile-de-france/medias/logos/logo_m.svg"  title="Métro" height="25" width="25" class="line-logo line-logo-network line-logo-network-m"><a href="/plan-ile-de-france/page/ligne/m_12" class="line-link"><img src="/plan-ile-de-france/medias/logos/m_12.svg"  title="Métro 12" height="25" width="25" class="line-logo line-logo-line line-logo-line-m-12"></a> </td>
-  <td>5 min</td>
-</tr>
-<tr>
-  <td>Gare du Nord</td>
-  <td><img src="/plan-ile-de-france/medias/logos/logo_m.svg"  title="Métro" height="25" width="25" class="line-logo line-logo-network line-logo-network-m"><a href="/plan-ile-de-france/page/ligne/m_nord" class="line-link"><img src="/plan-ile-de-france/medias/logos/m_nord.svg"  title="Métro Nord" height="25" width="25" class="line-logo line-logo-line line-logo-line-m-nord"></a> </td>
-  <td>5 min</td>
-</tr>
-
-	</tbody>
-     </table>
-    -->
 </div>
 <div>
-<!--
-     <h2>&Agrave; proximité</h2>
-     <table class="content-table">
-       <thead>
-	 <tr>
-	   <th>Lieu</th>
-	   <th>Catégorie</th>
-	 </tr>
-	</thead>
-	<tbody>
-	    
-	</tbody>
-      </table>
-     -->
 </div>
 </div>
 </div>
@@ -190,33 +147,7 @@
 <div>
 <div id="comments-section-div">
 <h3 id="comments">
-<!--Donnez-nous votre avis-->Commenter</h3>
-<div id="comments-div"></div>
-<script>CommentManager.displayCommentsSection('i7ec32');</script>
-</div>
-</div>
-</article>
-</main>
-<footer>
-<nav>
-<ul class="" id="bottom-menu-ul">
-<li class=""><a href="..\infos\about.php" title="">À propos</a></li>
-<li class=""><a href="..\legal.php" title="">Mentions légales</a></li>
-<li class=""><a href="..\privacy.php" title="">Confidentialité</a></li>
-<li class=""><a href="..\contact.php" title="">Contact</a></li>
-<li class=""><a href="..\sitemap.php" title="">Plan du site</a></li>
-<li class=""><a href="..\rss.php" title="Tous nos flux RSS et abonnement a notre liste de diffusion">RSS</a></li>
-<li class=""><a href="..\dons.php" title="">Dons</a></li>
-<li class=""><a href="..\help.php" title="Aide à la navigation sur notre site">Aide</a></li>
-</ul>
-<div style="clear:both;"></div>
-</nav>
-</footer>
-</div>
-<!-- -->
 <pre>
 </pre>
-<!-- -->
-<script>var qq = false || (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-74421816-1', 'auto'); ga('send', 'pageview'); </script>
 </body>
 </html>
